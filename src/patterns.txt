@@ -1,0 +1,15 @@
+⭐ Tier 1 (MUST KNOW — asked in almost every interview)
+1. Singleton Pattern
+2. Factory Pattern
+3. Strategy Pattern
+4. Observer Pattern
+5. Builder Pattern
+⭐ Tier 2 (VERY COMMON in LLD rounds)
+6. Adapter Pattern
+7. Decorator Pattern
+8. Proxy Pattern
+9. Command Pattern
+⭐ Tier 3 (Advanced / senior roles)
+10. Template Method
+11. State Pattern
+12. Chain of Responsibility
